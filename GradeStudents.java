@@ -1,11 +1,6 @@
-class GradeStudents {
+import java.util.*;
 
-    /*
-     * Complete the 'gradingStudents' function below.
-     *
-     * The function is expected to return an INTEGER_ARRAY.
-     * The function accepts INTEGER_ARRAY grades as parameter.
-     */
+class GradeStudents {
 
     public static List<Integer> gradingStudents(List<Integer> grades) {//class method
     // Write your code here
